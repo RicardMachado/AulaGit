@@ -1,1 +1,3 @@
 Olá, me chamo Ricardo Machado e este arquivo está sendo criado para teste.
+
+Teste de atualização do arquivo no Git
