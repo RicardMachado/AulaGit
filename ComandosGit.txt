@@ -1,0 +1,25 @@
+Comandos Git
+
+git clone - Baixa o arquivo para a maquina local
+
+git branch - Mostra todos os branch
+
+git checkout -b "Meu nome" - Cria um novo branch no repositório no git
+
+git checkout Meu nome - Faz o checkout com o novo branch
+
+git add . - Adicionar todas as alterações feitas no código
+
+git commit -m "Altecacao do core e add do readme"
+
+git commit -m "Add readme" --amend - Comando para alterar um mensagem no commit
+
+git push origin karol
+
+git pull origin master - Pegou a alteração do branch karol para o master
+
+Comandos de consulta
+
+git status - Mostra o status que está o código
+
+git log - Verifica o teu log do git
